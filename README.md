@@ -15,6 +15,5 @@ I am passionate about video games and game servers. <br/>
 * <b>Game Developer -></b> Five M | Arma 3 | Garry's Mod | ARK: Survival Evolved | Rust | Minecraft<br/>
 <br/><br/>
 * 💼 Currently working on [Joviality RP - Five M](https://discord.gg/b2dhPK2cb6) <br/>
-* 💼 Currently working on [Joviality RP - Arma 3](https://discord.gg/jovialityrp) <br/>
 * 💼 Currently working on [Flashland - Five M](https://discord.gg/flashland) <br/>
 * 📫 Contact me by [MAIL](mailto:contact@slt-dev.ovh) <br/>
