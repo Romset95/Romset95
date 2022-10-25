@@ -14,5 +14,6 @@ I am passionate about video games and game servers. <br/>
 * <b>Software Developer -></b> AHK / INI  <br/><br/>
 * <b>Game Developer -></b> Five M | Arma 3 | Garry's Mod | ARK: Survival Evolved | Rust<br/>
 <br/><br/>
-* 💼 Currently working on [Flashland - Five M](https://discord.gg/flashland) <br/>
+* 💼 Currently working on [Meta Roleplay - Five M](https://discord.gg/metafr) <br/>
+* 💼 I worked for [Flashland - Five M](https://discord.gg/flashland) <br/>
 * 📫 Contact me by [MAIL](mailto:contact@slt-dev.ovh) <br/>
