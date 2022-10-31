@@ -20,4 +20,4 @@ I am passionate about video games and game servers. <br/>
 * 💼 I worked for A3R - Arma 3 <br/>
 * 💼 I worked for TIRNA - Five M <br/>
 * 💼 I worked for TIRNA - Arma 3 <br/>
-* 📫 Contact me by [MAIL](mailto:contact@slt-dev.ovh) <br/>
+* 📫 Commercial Mail : [MAIL](mailto:commericla@slt-dev.ovh) <br/>
