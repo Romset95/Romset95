@@ -16,4 +16,8 @@ I am passionate about video games and game servers. <br/>
 <br/><br/>
 * 💼 Currently working on [Meta Roleplay - Five M](https://discord.gg/metafr) <br/>
 * 💼 I worked for [Flashland - Five M](https://discord.gg/flashland) <br/>
+* 💼 I worked for Joviality RP - Arma 3 <br/>
+* 💼 I worked for A3R - Arma 3 <br/>
+* 💼 I worked for TIRNA - Five M <br/>
+* 💼 I worked for TIRNA - Arma 3 <br/>
 * 📫 Contact me by [MAIL](mailto:contact@slt-dev.ovh) <br/>
