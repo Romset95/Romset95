@@ -20,7 +20,7 @@ I am a developer based on several languages derived from C. <br/>
 I am passionate about video games and game servers. <br/>
 * <b>Server Developer -> </b>LUA / SQF / HPP / SQL / JS<br/>
 * <b>Web Developer -> </b>HTML / CSS / SQL / JS<br/>
-* <b>Discord Developer -></b> JS <br/>
+* <b>Discord Developer -></b> JS / SQL <br/>
 * <b>Software Developer -></b> AHK / INI  <br/><br/>
 * <b>Game Developer -></b> Five M | Arma 3 | Garry's Mod | ARK: Survival Evolved | Rust<br/>
 <br/><br/>
