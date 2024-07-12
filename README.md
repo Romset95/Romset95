@@ -50,6 +50,4 @@ I am passionate about video games and game servers. <br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="50" height="50"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Sutdio 2019" alt="Visual Sutdio 2019" width="50" height="50"/>&nbsp;<br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Romset95&show_icons=true&theme=codeSTACKr&hide=contribs,prs,issues" alt=""/>
 </p>
