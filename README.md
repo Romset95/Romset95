@@ -24,9 +24,9 @@ I am passionate about video games and game servers. <br/>
 * <b>Software Developer -></b> AHK / INI  <br/><br/>
 * <b>Game Developer -></b> Five M | Arma 3 | Garry's Mod | ARK: Survival Evolved | Rust<br/>
 <br/><br/>
-* 💼 Currently working on [Projet X - Five M](https://discord.gg/ybE6BXbhc9) <br/>
+* 💼 Currently working for [Flashland - Five M](https://discord.gg/flashlandwl)<br/>
+* 💼 Owner of Projet X - Five M <br/>
 * 💼 I worked for Meta Roleplay - Five M<br/>
-* 💼 I worked for Flashland - Five M<br/>
 * 💼 I worked for Joviality RP - Arma 3 <br/>
 * 💼 I worked for A3R - Arma 3 <br/>
 * 💼 I worked for TIRNA - Five M <br/>
